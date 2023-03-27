@@ -1,0 +1,8 @@
+created through npx (by default)
+further: npm install  
+to run :npm start
+.
+.
+further install:npm instal react-router-dom@6.4
+
+also;

@@ -1,0 +1,46 @@
+{
+  "careers": [
+    {
+      "id": 1,
+      "title": "Senior React Developer",
+      "salary": 50000,
+      "location": "Bangalore"
+    },
+    {
+      "id": 2,
+      "title": "Java SE Developer",
+      "salary": 40000,
+      "location": "Vijaypura"
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Designer",
+      "salary": 75000,
+      "location": "Bagalkot"
+    },
+    {
+      "id": 4,
+      "title": "Vue Developer",
+      "salary": 40000,
+      "location": "Pune"
+    },
+    {
+      "id": 5,
+      "title": "Tutorial Maker",
+      "salary": 35000,
+      "location": "Vijaypura,Maruti Colony"
+    },
+    {
+      "id": 6,
+      "title": "Website Manager",
+      "salary": 50000,
+      "location": "Hyderabad"
+    },
+    {
+      "id": 7,
+      "title": "Deployment and Tester",
+      "salary": 30000,
+      "location": "Belgaum"
+    }
+  ]
+}
