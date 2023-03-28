@@ -6,3 +6,7 @@ to run :npm start
 further install:npm instal react-router-dom@6.4
 
 also;
+loaders can be used only when we used createBrowserRouter
+loaders is something like we can load data before rendering of component
+install json-server
+and:json-server -p 4000 -w ./data/db.json
