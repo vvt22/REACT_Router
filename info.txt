@@ -7,9 +7,10 @@ further install:npm instal react-router-dom@6.4
 
 .
 .
-here uselocation is hook provided by react router which provides data of current location 
-of user on site
-using this we will make breadcrumbs
-breadcrumbs on the site are a list of location user has visited to reach their current destination
-ex:/help/contact ==== help | contact
-console.log(location=useLocation()) //to check properties
+here form: works only if we make use of newer way of routes
+form component will automatically track values and wrap into a request object
+and pass into action, while submitting
+
+
+work:
+ replace form with Form 
