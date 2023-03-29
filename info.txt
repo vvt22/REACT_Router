@@ -5,8 +5,11 @@ to run :npm start
 .
 further install:npm instal react-router-dom@6.4
 
-also;
-loaders can be used only when we used createBrowserRouter
-loaders is something like we can load data before rendering of component
-install json-server
-and:json-server -p 4000 -w ./data/db.json
+.
+.
+here uselocation is hook provided by react router which provides data of current location 
+of user on site
+using this we will make breadcrumbs
+breadcrumbs on the site are a list of location user has visited to reach their current destination
+ex:/help/contact ==== help | contact
+console.log(location=useLocation()) //to check properties
